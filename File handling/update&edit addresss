@@ -1,4 +1,4 @@
-f=open("update address.txt",'r+')
+f=open("filename.txt",'r+')
 str=f.read()
 print(str)
 str1=input()
